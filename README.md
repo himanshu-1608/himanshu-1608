@@ -9,7 +9,7 @@
 - 👯 I’m looking forward to work with:
   -  any startups (what I think I'll learn- complete ownership, fast agile deliveries, work on 10 different tech. stack rather than just UI/Backend Dev. or DB/DevOps/Networks Engg.)
   -  any org. that is working on an already developed product (what I think I'll learn- Scalability, reducing Time Complexity OR Product Optimization)
-- ❓ Question: **Why the hell DSA is asked in tech. interviews when it is never actually implemented in any company (LinkedLists and Graphs)** (Answer to me on LinkedIn/Email if anybody knows 😕)
+- ❓ Question: HOW YOU DOIN'? :smirk:
 - ⚡ Fun fact: I made my startup's co-founders laugh with my memes (in an official presentation :p)
 
 ### Connect with me:
